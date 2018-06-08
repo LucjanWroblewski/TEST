@@ -1,6 +1,3 @@
-
-hehe
-fsdfdg
-dfadsgd
-sdfas
+to jest zmiana na Branchu B
+cwiczenia
 
