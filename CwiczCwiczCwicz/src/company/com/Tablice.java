@@ -13,7 +13,8 @@ public class Tablice {
             max = arrayTwo[i];}
             }
         System.out.println(max);
-        
+
+
         
 
     }
